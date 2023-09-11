@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Termékek</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Fix fejléc stílusok */
+        .table-container {
+            max-height: 400px;
+            overflow-y: scroll;
+        }
+
+        .table-header th {
+            position: sticky;
+            top: 0;
+            background-color: #BDC0BF; /* A fejléc háttérszíne */
+            z-index: 1; /* Az elem z-index-je a fölötte lévő tartalomhoz képest */
+        }
+    </style>
+</head>
+<body>
+    <h1>Termékek</h1>
+    <div class="table-container">
+        <table class="table table-bordered">
+            <thead class="table-header">
+                <tr>
+                    <th>ID</th>
+                    <th>Termék neve</th>
+                    <th>Leírás</th>
+                    <th>Ára forintban</th>
+                    <th>Kategória</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for termek in termek_lista %}
+                <tr>
+                    <td>{{ termek.ID }}</td>
+                    <td>{{ termek.termék_neve }}</td>
+                    <td>{{ termek.leírás }}</td>
+                    <td>{{ termek.ára }}</td>
+                    <td>{{ termek.kategória }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
