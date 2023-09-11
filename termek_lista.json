@@ -1,359 +1,380 @@
 [
     {
         "ID": 1,
-        "termék_neve": "ACER 12N",
-        "leírás": "Hordozható számítógép nagy teljesítménnyel.",
-        "ára": 359000,
-        "kategória": "Informatikai eszközök"
+        "termek_neve": "ACER 12N",
+        "leiras": "Hordozható számítógép nagy teljesítménnyel.",
+        "ara": 359000,
+        "kategoria": "Informatikai eszközök"
     },
     {
         "ID": 2,
-        "termék_neve": "Okostelefon",
-        "leírás": "Modern okostelefon kiváló kamerával.",
-        "ára": 199000,
-        "kategória": "Mobiltelefonok"
+        "termek_neve": "Okostelefon",
+        "leiras": "Modern okostelefon kiváló kamerával.",
+        "ara": 199000,
+        "kategoria": "Mobiltelefonok"
     },
     {
         "ID": 3,
-        "termék_neve": "Televízió",
-        "leírás": "Nagy méretű HD televízió.",
-        "ára": 300000,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "Televízió",
+        "leiras": "Nagy méretű HD televízió.",
+        "ara": 300000,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 4,
-        "termék_neve": "Kávéfőző",
-        "leírás": "Programozható kávéfőző.",
-        "ára": 2300,
-        "kategória": "Konyhai eszközök"
+        "termek_neve": "Kávéfőző",
+        "leiras": "Programozható kávéfőző.",
+        "ara": 2300,
+        "kategoria": "Konyhai eszközök"
     },
     {
         "ID": 5,
-        "termék_neve": "Hűtőszekrény",
-        "leírás": "Nagy hűtőszekrény energiahatékonysággal.",
-        "ára": 199500,
-        "kategória": "Háztartási gépek"
+        "termek_neve": "Hűtőszekrény",
+        "leiras": "Nagy hűtőszekrény energiahatékonysággal.",
+        "ara": 199500,
+        "kategoria": "Háztartási gépek"
     },
     {
         "ID": 6,
-        "termék_neve": "Mikrohullámú sütő",
-        "leírás": "Mikrohullámú sütő gyors ételkészítéshez.",
-        "ára": 60000,
-        "kategória": "Konyhai eszközök"
+        "termek_neve": "Mikrohullámú sütő",
+        "leiras": "Mikrohullámú sütő gyors ételkészítéshez.",
+        "ara": 60000,
+        "kategoria": "Konyhai eszközök"
     },
     {
         "ID": 7,
-        "termék_neve": "Fényképezőgép",
-        "leírás": "DSLR fényképezőgép professzionális felhasználóknak.",
-        "ára": 299000,
-        "kategória": "Fotó és kamera"
+        "termek_neve": "Fényképezőgép",
+        "leiras": "DSLR fényképezőgép professzionális felhasználóknak.",
+        "ara": 299000,
+        "kategoria": "Fotó és kamera"
     },
     {
         "ID": 8,
-        "termék_neve": "Asztali számítógép",
-        "leírás": "Erős asztali számítógép játékhoz és munkához.",
-        "ára": 516000,
-        "kategória": "Informatikai eszközök"
+        "termek_neve": "Asztali számítógép",
+        "leiras": "Erős asztali számítógép játékhoz és munkához.",
+        "ara": 516000,
+        "kategoria": "Informatikai eszközök"
     },
     {
         "ID": 9,
-        "termék_neve": "Vezeték nélküli egér",
-        "leírás": "Kényelmes vezeték nélküli egér használathoz.",
-        "ára": 9000,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "Vezeték nélküli egér",
+        "leiras": "Kényelmes vezeték nélküli egér használathoz.",
+        "ara": 9000,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 10,
-        "termék_neve": "Hangszóró rendszer",
-        "leírás": "Magas minőségű hangszóró rendszer zenehallgatáshoz.",
-        "ára": 99000,
-        "kategória": "Hangtechnika"
+        "termek_neve": "Hangszóró rendszer",
+        "leiras": "Magas minőségű hangszóró rendszer zenehallgatáshoz.",
+        "ara": 99000,
+        "kategoria": "Hangtechnika"
     },
     {
         "ID": 11,
-        "termék_neve": "Doogee mobiltelefon",
-        "leírás": "Strapabíró mobiltelefon komoly akkuval.",
-        "ára": 1590000,
-        "kategória": "Mobiltelefonok"
+        "termek_neve": "Doogee mobiltelefon",
+        "leiras": "Strapabíró mobiltelefon komoly akkuval.",
+        "ara": 1590000,
+        "kategoria": "Mobiltelefonok"
     },
     {
         "ID": 12,
-        "termék_neve": "Vivobook",
-        "leírás": "Nagy teljesítményű laptop",
-        "ára": 425000,
-        "kategória": "Informatikai eszközök"
+        "termek_neve": "Vivobook",
+        "leiras": "Nagy teljesítményű laptop",
+        "ara": 425000,
+        "kategoria": "Informatikai eszközök"
     },
     {
         "ID": 13,
-        "termék_neve": "LG televízió",
-        "leírás": "Nagyképernyős televízió",
-        "ára": 199000,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "LG televízió",
+        "leiras": "Nagyképernyős televízió",
+        "ara": 199000,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 14,
-        "termék_neve": "Sűrített levegő spray",
-        "leírás": "Tisztító spray, szereléshez",
-        "ára": 990,
-        "kategória": "Háztartási kellékek"
+        "termek_neve": "Sűrített levegő spray",
+        "leiras": "Tisztító spray, szereléshez",
+        "ara": 990,
+        "kategoria": "Háztartási kellékek"
     },
     {
         "ID": 15,
-        "termék_neve": "Acer laptop",
-        "leírás": "Nagyteljesítményű laptop",
-        "ára": 299000,
-        "kategória": "Informatikai eszközök"
+        "termek_neve": "Acer laptop",
+        "leiras": "Nagyteljesítményű laptop",
+        "ara": 299000,
+        "kategoria": "Informatikai eszközök"
     },
     {
         "ID": 16,
-        "termék_neve": "LG Okostelefon",
-        "leírás": "Kiváló minőségű okostelefon érintőképernyővel.",
-        "ára": 129900,
-        "kategória": "Mobiltelefonok"
+        "termek_neve": "LG Okostelefon",
+        "leiras": "Kiváló minőségű okostelefon érintőképernyővel.",
+        "ara": 129900,
+        "kategoria": "Mobiltelefonok"
     },
     {
         "ID": 17,
-        "termék_neve": "Googee Tablet",
-        "leírás": "10 hüvelykes tablet gyors processzorral.",
-        "ára": 79900,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "Googee Tablet",
+        "leiras": "10 hüvelykes tablet gyors processzorral.",
+        "ara": 79900,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 18,
-        "termék_neve": "4K Smart TV",
-        "leírás": "55 hüvelykes 4K felbontású okos televízió.",
-        "ára": 249900,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "4K Smart TV",
+        "leiras": "55 hüvelykes 4K felbontású okos televízió.",
+        "ara": 249900,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 19,
-        "termék_neve": "Gamer Laptop",
-        "leírás": "Erőteljes gamer laptop RGB világítással.",
-        "ára": 429000,
-        "kategória": "Informatikai eszközök"
+        "termek_neve": "Gamer Laptop",
+        "leiras": "Erőteljes gamer laptop RGB világítással.",
+        "ara": 429000,
+        "kategoria": "Informatikai eszközök"
     },
     {
         "ID": 20,
-        "termék_neve": "Olympos Digitális fényképezőgép",
-        "leírás": "20 megapixeles digitális fényképezőgép zoom objektívvel.",
-        "ára": 179900,
-        "kategória": "Fotó és kamera"
+        "termek_neve": "Olympos Digitális fényképezőgép",
+        "leiras": "20 megapixeles digitális fényképezőgép zoom objektívvel.",
+        "ara": 179900,
+        "kategoria": "Fotó és kamera"
     },
     {
         "ID": 21,
-        "termék_neve": "LG Wireless egér",
-        "leírás": "Optikai vezeték nélküli egér hosszú akkumulátor-élettartammal.",
-        "ára": 4990,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "LG Wireless egér",
+        "leiras": "Optikai vezeték nélküli egér hosszú akkumulátor-élettartammal.",
+        "ara": 4990,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 22,
-        "termék_neve": "Okos otthon rendszer",
-        "leírás": "Intelligens otthoni rendszer okostelefon alkalmazással.",
-        "ára": 59900,
-        "kategória": "Okos otthon"
+        "termek_neve": "Okos otthon rendszer",
+        "leiras": "Intelligens otthoni rendszer okostelefon alkalmazással.",
+        "ara": 59900,
+        "kategoria": "Okos otthon"
     },
     {
         "ID": 23,
-        "termék_neve": "Hangszórórendszer",
-        "leírás": "5.1 csatornás hangszórórendszer moziélményhez.",
-        "ára": 69900,
-        "kategória": "Hangtechnika"
+        "termek_neve": "Hangszórórendszer",
+        "leiras": "5.1 csatornás hangszórórendszer moziélményhez.",
+        "ara": 69900,
+        "kategoria": "Hangtechnika"
     },
     {
         "ID": 24,
-        "termék_neve": "Külső merevlemez",
-        "leírás": "2TB tárolási kapacitású külső merevlemez USB 3.0 csatlakozással.",
-        "ára": 22990,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "Külső merevlemez",
+        "leiras": "2TB tárolási kapacitású külső merevlemez USB 3.0 csatlakozással.",
+        "ara": 22990,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 25,
-        "termék_neve": "VR headset",
-        "leírás": "Virtual Reality headset kiváló játékélményhez.",
-        "ára": 79900,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "VR headset",
+        "leiras": "Virtual Reality headset kiváló játékélményhez.",
+        "ara": 79900,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 26,
-        "termék_neve": "Mechanikus billentyűzet",
-        "leírás": "Mechanikus gaming billentyűzet RGB háttérvilágítással.",
-        "ára": 14990,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "Mechanikus billentyűzet",
+        "leiras": "Mechanikus gaming billentyűzet RGB háttérvilágítással.",
+        "ara": 14990,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 27,
-        "termék_neve": "Bluetooth fülhallgató",
-        "leírás": "Vezeték nélküli Bluetooth fülhallgató aktív zajszűréssel.",
-        "ára": 7990,
-        "kategória": "Audió eszközök"
+        "termek_neve": "Bluetooth fülhallgató",
+        "leiras": "Vezeték nélküli Bluetooth fülhallgató aktív zajszűréssel.",
+        "ara": 7990,
+        "kategoria": "Audió eszközök"
     },
     {
         "ID": 28,
-        "termék_neve": "Robot porszívó",
-        "leírás": "Automatizált robot porszívó takarítási programokkal.",
-        "ára": 49900,
-        "kategória": "Háztartási gépek"
+        "termek_neve": "Robot porszívó",
+        "leiras": "Automatizált robot porszívó takarítási programokkal.",
+        "ara": 49900,
+        "kategoria": "Háztartási gépek"
     },
     {
         "ID": 29,
-        "termék_neve": "Sztereó fejhallgató",
-        "leírás": "Kiváló minőségű sztereó fejhallgató kényelmes viselettel.",
-        "ára": 5990,
-        "kategória": "Audió eszközök"
+        "termek_neve": "Sztereó fejhallgató",
+        "leiras": "Kiváló minőségű sztereó fejhallgató kényelmes viselettel.",
+        "ara": 5990,
+        "kategoria": "Audió eszközök"
     },
     {
         "ID": 30,
-        "termék_neve": "Egyetemi Laptop",
-        "leírás": "Könnyű és hordozható laptop egyetemi hallgatóknak.",
-        "ára": 99900,
-        "kategória": "Informatikai eszközök"
+        "termek_neve": "Egyetemi Laptop",
+        "leiras": "Könnyű és hordozható laptop egyetemi hallgatóknak.",
+        "ara": 99900,
+        "kategoria": "Informatikai eszközök"
     },
     {
         "ID": 31,
-        "termék_neve": "Külső SSD merevlemez 1TB",
-        "leírás": "Gyors, törésálló hordozható merevlemez",
-        "ára": 27000,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "Külső SSD merevlemez 1TB",
+        "leiras": "Gyors, törésálló hordozható merevlemez",
+        "ara": 27000,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 32,
-        "termék_neve": "USB adattároló 5GB",
-        "leírás": "USB 3.0 hordozható adattároló",
-        "ára": 1990,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "USB adattároló 5GB",
+        "leiras": "USB 3.0 hordozható adattároló",
+        "ara": 1990,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 33,
-        "termék_neve": "Delonghi kávéfőző",
-        "leírás": "Automata kávéfőző",
-        "ára": 99000,
-        "kategória": "Konyhai eszközök"
+        "termek_neve": "Delonghi kávéfőző",
+        "leiras": "Automata kávéfőző",
+        "ara": 99000,
+        "kategoria": "Konyhai eszközök"
     },
     {
         "ID": 34,
-        "termék_neve": "Tejhabosító",
-        "leírás": "Kávékészítéshez, tejhabosításra",
-        "ára": 15000,
-        "kategória": "Konyhai eszközök"
+        "termek_neve": "Tejhabosító",
+        "leiras": "Kávékészítéshez, tejhabosításra",
+        "ara": 15000,
+        "kategoria": "Konyhai eszközök"
     },
     {
         "ID": 35,
-        "termék_neve": "HP laptop",
-        "leírás": "Iskolai használatra konfigurált laptop",
-        "ára": 149000,
-        "kategória": "Informatikai eszközök"
+        "termek_neve": "HP laptop",
+        "leiras": "Iskolai használatra konfigurált laptop",
+        "ara": 149000,
+        "kategoria": "Informatikai eszközök"
     },
     {
         "ID": 36,
-        "termék_neve": "Samsung televízió",
-        "leírás": "Nagyképernyős 8K TV",
-        "ára": 399000,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "Samsung televízió",
+        "leiras": "Nagyképernyős 8K TV",
+        "ara": 399000,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 37,
-        "termék_neve": "Samsung DVD író",
-        "leírás": "Retro DVD író",
-        "ára": 5990,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "Samsung DVD író",
+        "leiras": "Retro DVD író",
+        "ara": 5990,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 38,
-        "termék_neve": "Samsung DVD lejátszó",
-        "leírás": "Retro DVD lejátszó",
-        "ára": 5990,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "Samsung DVD lejátszó",
+        "leiras": "Retro DVD lejátszó",
+        "ara": 5990,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 39,
-        "termék_neve": "Samsung 4K monitor",
-        "leírás": "Számítógép monitor 4K felbontással",
-        "ára": 52000,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "Samsung 4K monitor",
+        "leiras": "Számítógép monitor 4K felbontással",
+        "ara": 52000,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 40,
-        "termék_neve": "USB mobiltöltő",
-        "leírás": "Mobiltelefon töltő",
-        "ára": 1990,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "USB mobiltöltő",
+        "leiras": "Mobiltelefon töltő",
+        "ara": 1990,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 41,
-        "termék_neve": "Smartech tv okosító USB és HDMI csatlakozóval",
-        "leírás": "TV smart box USB és HDMI csatlakozással",
-        "ára": 19000,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "Smartech tv okosító USB és HDMI csatlakozóval",
+        "leiras": "TV smart box USB és HDMI csatlakozással",
+        "ara": 19000,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 42,
-        "termék_neve": "HP lézeres nyomtató",
-        "leírás": "Lézer technológiás nyomtató",
-        "ára": 59000,
-        "kategória": "Számítógép tartozékok"
+        "termek_neve": "HP lézeres nyomtató",
+        "leiras": "Lézer technológiás nyomtató",
+        "ara": 59000,
+        "kategoria": "Számítógép tartozékok"
     },
     {
         "ID": 43,
-        "termék_neve": "JVC Videomagnó",
-        "leírás": "Retro videomagnó VHS kazetták lejátszására",
-        "ára": 25000,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "JVC Videomagnó",
+        "leiras": "Retro videomagnó VHS kazetták lejátszására",
+        "ara": 25000,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 44,
-        "termék_neve": "JVC  DVD lejátszó",
-        "leírás": "Retro DVD lejátszó",
-        "ára": 14990.0,
-        "kategória": "Szórakoztató elektronika"
+        "termek_neve": "JVC  DVD lejátszó",
+        "leiras": "Retro DVD lejátszó",
+        "ara": 14990.0,
+        "kategoria": "Szórakoztató elektronika"
     },
     {
         "ID": 45,
-        "termék_neve": "Samsung mobiltelefon",
-        "leírás": "Samsung okostelefon",
-        "ára": 199000.0,
-        "kategória": "Mobiltelefonok"
+        "termek_neve": "Samsung mobiltelefon",
+        "leiras": "Samsung okostelefon",
+        "ara": 199000.0,
+        "kategoria": "Mobiltelefonok"
     },
     {
         "ID": 46,
-        "termék_neve": "LG okostelefon",
-        "leírás": "LG mobiltelefon",
-        "ára": 259000.0,
-        "kategória": "Mobiltelefonok"
+        "termek_neve": "LG okostelefon",
+        "leiras": "LG mobiltelefon",
+        "ara": 259000.0,
+        "kategoria": "Mobiltelefonok"
     },
     {
         "ID": 47,
-        "termék_neve": "Doogee S99 mobiltelefon",
-        "leírás": "strapabíró nmobil",
-        "ára": "179000",
-        "kategória": "Mobiltelefonok"
+        "termek_neve": "Doogee S99 mobiltelefon",
+        "leiras": "strapabíró nmobil",
+        "ara": "179000",
+        "kategoria": "Mobiltelefonok"
     },
     {
         "ID": 48,
-        "termék_neve": "Samsung mobiltelefon G52",
-        "leírás": "Samsung okostelefon",
-        "ára": 199500,
-        "kategória": "Mobiltelefonok"
+        "termek_neve": "Samsung mobiltelefon G52",
+        "leiras": "Samsung okostelefon",
+        "ara": 199500,
+        "kategoria": "Mobiltelefonok"
     },
     {
-        "termék_neve": "LG 26 okostelefon",
-        "leírás": "LG mobiltelefon",
-        "ára": "99000",
-        "kategória": "Mobiltelefonok",
+        "termek_neve": "LG 26 okostelefon",
+        "leiras": "LG mobiltelefon",
+        "ara": "99000",
+        "kategoria": "Mobiltelefonok",
         "ID": 49
     },
     {
-        "termék_neve": "LG 72 okostelefon",
-        "leírás": "LG mobiltelefon",
-        "ára": "56000",
-        "kategória": "Mobiltelefonok",
+        "termek_neve": "LG 72 okostelefon",
+        "leiras": "LG mobiltelefon",
+        "ara": "56000",
+        "kategoria": "Mobiltelefonok",
         "ID": 50
     },
     {
-        "termék_neve": "Samsung F39 mobiltelefon",
-        "leírás": "Samsung okostelefon",
-        "ára": "99000",
-        "kategória": "Mobiltelefonok",
+        "termek_neve": "Samsung F39 mobiltelefon",
+        "leiras": "Samsung okostelefon",
+        "ara": "99000",
+        "kategoria": "Mobiltelefonok",
         "ID": 51
+    },
+    {
+        "termek_neve": "JVC TELEVÍZIÓ",
+        "leiras": "LCD technológiás készülék",
+        "ara": 99000,
+        "kategoria": "Szórakoztetó elektronika",
+        "ID": 52
+    },
+    {
+        "termek_neve": "FUJI memóriakártya",
+        "leiras": "1 TB  memóriakárty, fényképezőgéphez",
+        "ara": 19900,
+        "kategoria": "Fényképezőgép tartozék",
+        "ID": 53
+    },
+    {
+        "termek_neve": "Fuji memóriakártya",
+        "leiras": "  500 MB  memóriakárty, fényképezőgéphez",
+        "ara": 9990,
+        "kategoria": "fényképezőgép tartozék",
+        "ID": 54
     }
 ]
